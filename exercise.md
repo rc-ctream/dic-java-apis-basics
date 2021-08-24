@@ -13,7 +13,7 @@ The profile must be in a format specified by you so that you can read and analys
     <content>
 
 #### Task:
-Your task is to read the profiles programmatically and extract the names and dates of birth of the individual authors, and write it into a separate file (autors.txt). It is important that only one author is listed per line.
+Your task is to read the profiles programmatically and extract the names and dates of birth of the individual authors, and write it into a separate file (autors.txt). Imagine the directory of the profiles is called `profiles`. It is important that only one author is listed per line.
 
 #### Example
     1. Markus Mustermann, 1986-09-01
