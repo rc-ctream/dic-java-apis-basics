@@ -40,7 +40,7 @@ public class ExtractAuthorNames {
                     var name = s.split("Name:")[1];
                     var birthday = s2.split("Date of birth:")[1];
                     return String.join(",", name, birthday);
-                }).orElse("Not found");
+                }).get();
     }
 
 
